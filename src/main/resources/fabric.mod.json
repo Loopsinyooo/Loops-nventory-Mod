@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "loopsinv",
+  "version": "${version}",
+  "name": "Loops inv",
+  "description": "Sort your inventory, drag items to move them, search, and track your chests.\n\nJoin Discord: https://discord.gg/EUCAcNUJYV",
+  "authors": [
+    "Loopsinyooo"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "loopsinv.mixins.json"
+  ],
+  "entrypoints": {
+    "client": [
+      "com.example.loopsinv.LoopsInvClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "contact": {
+    "homepage": "https://discord.gg/EUCAcNUJYV"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/EUCAcNUJYV"
+      }
+    }
+  }
+}

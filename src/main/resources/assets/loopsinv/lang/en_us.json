@@ -1,0 +1,9 @@
+{
+  "key.loopsinv.sort": "Sort inventory",
+  "key.category.loopsinv.main": "Loops inv",
+  "key.loopsinv.tracker": "Chest tracker",
+  "screen.loopsinv.tracker": "Chest tracker",
+  "loopsinv.search": "Search...",
+  "loopsinv.tracker.empty": "Nothing found. Chest contents are saved when you open them.",
+  "loopsinv.tracker.hint": "Close this screen and the matching chests will glow. Opening a chest stops its glow."
+}

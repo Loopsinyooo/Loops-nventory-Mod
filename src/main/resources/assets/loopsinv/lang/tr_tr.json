@@ -1,0 +1,9 @@
+{
+  "key.loopsinv.sort": "Envanteri düzenle",
+  "key.category.loopsinv.main": "Loops inv",
+  "key.loopsinv.tracker": "Sandık takipçisi",
+  "screen.loopsinv.tracker": "Sandık takipçisi",
+  "loopsinv.search": "Ara...",
+  "loopsinv.tracker.empty": "Bulunamadı. Sandık içerikleri açtığında kaydedilir.",
+  "loopsinv.tracker.hint": "Ekranı kapatınca bulunan sandıklar parlar. Sandığı açınca parlaması söner."
+}
